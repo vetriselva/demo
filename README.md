@@ -1,4 +1,4 @@
-#install steps
+#installation steps
 1) clone project
 2) php artisan migrate 
 3) php artisan db:seed
